@@ -1,0 +1,14 @@
+h1{
+	font-size: 50px;
+	text-align: center;
+	background: black;
+	color: red;
+}
+h3{
+	font-size: 30px;
+	background: cyan;
+}
+p{
+	font-size: 20px;
+	background: yellow;
+}
